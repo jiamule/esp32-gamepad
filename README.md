@@ -19,3 +19,4 @@
 | DPAD_DOWN 下 | 26 |
 | DPAD_LEFT 左 | 25 |
 | DPAD_RIGHT 右 | 33 |
+
